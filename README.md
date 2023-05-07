@@ -1,5 +1,7 @@
 # Moroccan Pottery Plate AI Model B'Darija
 
+<img src="images/ArtisanAI.png">
+
 **ArtisanAI** is a combination of two AI models: an NLP model that can process/translate text input in Darija language, and a diffusion model that can generate images based on that text input. The end result is a unique and customizable image that can be carved onto a Moroccan pottery plate.
 
 ## Table of Contents

@@ -78,16 +78,7 @@ If you would like to contribute to the project, please follow these guidelines:
 
 ## Sources
 [Dreambooth](https://colab.research.google.com/github/huggingface/diffusion-models-class/blob/main/hackathon/dreambooth.ipynb?authuser=1#scrollTo=b1a23ebf-cf7f-4acf-afd9-fabafa045b69) 
+
 [ControlNet](https://github.com/lllyasviel/ControlNet) 
+
 [HugginFace](https://huggingface.co) 
-
-
-
-
-
-
-
-
-
-link to colab : https://colab.research.google.com/drive/1sWyt8A1vgf202XP4hU7MiKWPc10lsBjt?usp=sharing
-NLP collab : https://colab.research.google.com/drive/149JlcKd3nQQh_o6Qni_T0qqc22_lQnNq?usp=sharing 

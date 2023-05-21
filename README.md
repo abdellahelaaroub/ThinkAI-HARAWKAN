@@ -29,7 +29,7 @@ To develop this project we use :
 3. ControlNet: neural network architectures that can learn important features and patterns in the data. controlNet shown to achieve state-of-the-art performance.
 
 ### UI Library
-- StreamLit
+- Gradio
 
 ## Challenges
 
